@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2301005.0,"model":{"type":"model","model":"slimetinker:materials/spout"}}],"fallback":{"type":"model","model":"block/polished_blackstone_brick_wall_inventory"}}}

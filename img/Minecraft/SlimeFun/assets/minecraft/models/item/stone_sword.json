@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/stone_sword"},"overrides":[{"predicate":{"custom_model_data":2301143},"model":"slimetinker:tool_building_guide/tool_sword_dummy"}]}

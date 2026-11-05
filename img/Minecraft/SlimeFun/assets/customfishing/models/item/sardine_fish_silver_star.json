@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"customfishing:fish/sardine_fish_silver_star"},"overrides":[{"predicate":{"custom_model_data":50017},"model":"customfishing:item/sardine_fish_silver_star"}]}

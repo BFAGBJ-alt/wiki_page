@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"auraskills:icon_ability_locked"},"overrides":[{"predicate":{"custom_model_data":2500032},"model":"auraskills:item/icon_ability_locked"}]}

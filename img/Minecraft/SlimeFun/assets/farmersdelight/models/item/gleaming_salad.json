@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/gleaming_salad"},"overrides":[{"predicate":{"custom_model_data":2500040},"model":"farmersdelight:item/gleaming_salad"}]}

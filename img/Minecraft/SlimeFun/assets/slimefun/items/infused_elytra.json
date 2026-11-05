@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"condition","on_true":{"type":"model","model":"slimefun:slimefun/magical_gadgets/elytra/broken_infused_elytra"},"on_false":{"type":"model","model":"slimefun:slimefun/magical_gadgets/elytra/infused_elytra"},"property":"broken"}}

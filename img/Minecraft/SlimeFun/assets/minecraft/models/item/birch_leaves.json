@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/birch_leaves","overrides":[{"predicate":{"custom_model_data":2300053},"model":"cultivation:products/clt_rosemary"},{"predicate":{"custom_model_data":2300058},"model":"cultivation:products/clt_thyme"}]}

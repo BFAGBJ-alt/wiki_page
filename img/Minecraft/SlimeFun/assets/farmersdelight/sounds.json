@@ -1,0 +1,158 @@
+{
+  "block.cooking_pot.boil": {
+    "subtitle": "farmersdelight.subtitles.cooking_pot.boil",
+    "sounds": [
+      "farmersdelight:block/cooking_pot/boil_water1",
+      "farmersdelight:block/cooking_pot/boil_water2"
+    ]
+  },
+  "block.cooking_pot.boil_soup": {
+    "subtitle": "farmersdelight.subtitles.cooking_pot.boil",
+    "sounds": [
+      "farmersdelight:block/cooking_pot/boil_soup1",
+      "farmersdelight:block/cooking_pot/boil_soup2",
+      "farmersdelight:block/cooking_pot/boil_soup3"
+    ]
+  },
+  "block.cutting_board.knife_cut": {
+    "subtitle": "farmersdelight.subtitles.cutting_board.knife_cut",
+    "sounds": [
+      "farmersdelight:block/cutting_board/knife1",
+      "farmersdelight:block/cutting_board/knife2"
+    ]
+  },
+  "block.cutting_board.carve_tool": {
+    "subtitle": "farmersdelight.subtitles.cutting_board.carve_tool",
+    "sounds": [
+      "minecraft:dig/wood1",
+      "minecraft:dig/wood2",
+      "minecraft:dig/wood3",
+      "minecraft:dig/wood4"
+    ]
+  },
+  "block.cutting_board.place_item": {
+    "subtitle": "farmersdelight.subtitles.cutting_board.place_item",
+    "sounds": [
+      "minecraft:dig/wood1",
+      "minecraft:dig/wood2",
+      "minecraft:dig/wood3",
+      "minecraft:dig/wood4"
+    ]
+  },
+  "block.cutting_board.remove_item": {
+    "subtitle": "farmersdelight.subtitles.cutting_board.remove_item",
+    "sounds": [
+      "minecraft:step/wood1",
+      "minecraft:step/wood2",
+      "minecraft:step/wood3",
+      "minecraft:step/wood4",
+      "minecraft:step/wood5",
+      "minecraft:step/wood6"
+    ]
+  },
+  "block.skillet.sizzle": {
+    "subtitle": "farmersdelight.subtitles.skillet.sizzle",
+    "sounds": [
+      "farmersdelight:block/skillet/sizzle1",
+      "farmersdelight:block/skillet/sizzle2",
+      "farmersdelight:block/skillet/sizzle3"
+    ]
+  },
+  "block.skillet.add_food": {
+    "subtitle": "farmersdelight.subtitles.skillet.add_food",
+    "sounds": [
+      "farmersdelight:block/skillet/add_food1",
+      "farmersdelight:block/skillet/add_food2"
+    ]
+  },
+  "item.skillet.attack.strong": {
+    "sounds": [
+      "farmersdelight:block/skillet/attack_strong"
+    ]
+  },
+  "item.skillet.attack.weak": {
+    "sounds": [
+      "farmersdelight:block/skillet/attack_weak"
+    ]
+  },
+  "block.stove.crackle": {
+    "subtitle": "farmersdelight.subtitles.stove.crackle",
+    "sounds": [
+      "minecraft:block/campfire/crackle1",
+      "minecraft:block/campfire/crackle2",
+      "minecraft:block/campfire/crackle3",
+      "minecraft:block/campfire/crackle4",
+      "minecraft:block/campfire/crackle5",
+      "minecraft:block/campfire/crackle6"
+    ]
+  },
+  "block.rope_fence_gate.open": {
+    "subtitle": "farmersdelight.subtitles.rope_fence_gate.open",
+    "sounds": [
+      "minecraft:entity/leashknot/unleash1",
+      "minecraft:entity/leashknot/unleash2",
+      "minecraft:entity/leashknot/unleash3"
+    ]
+  },
+  "block.rope_fence_gate.close": {
+    "subtitle": "farmersdelight.subtitles.rope_fence_gate.close",
+    "sounds": [
+      "minecraft:entity/leashknot/leash1",
+      "minecraft:entity/leashknot/leash2",
+      "minecraft:entity/leashknot/leash3"
+    ]
+  },
+  "block.cabinet.open": {
+    "subtitle": "farmersdelight.subtitles.cabinet.open",
+    "sounds": [
+      "minecraft:block/barrel/open1",
+      "minecraft:block/barrel/open2"
+    ]
+  },
+  "block.cabinet.close": {
+    "subtitle": "farmersdelight.subtitles.cabinet.close",
+    "sounds": [
+      "minecraft:block/barrel/close"
+    ]
+  },
+  "block.tomatoes.pick_tomatoes": {
+    "subtitle": "farmersdelight.subtitles.tomato.pick",
+    "sounds": [
+      "minecraft:item/sweet_berries/pick_from_bush1",
+      "minecraft:item/sweet_berries/pick_from_bush2"
+    ]
+  },
+  "block.food.take_portion": {
+    "subtitle": "farmersdelight.subtitles.food.take_portion",
+    "sounds": [
+      "minecraft:item/armor/equip_generic1",
+      "minecraft:item/armor/equip_generic2",
+      "minecraft:item/armor/equip_generic3",
+      "minecraft:item/armor/equip_generic4",
+      "minecraft:item/armor/equip_generic5",
+      "minecraft:item/armor/equip_generic6"
+    ]
+  },
+  "block.food.slice": {
+    "subtitle": "farmersdelight.subtitles.food.slice",
+    "sounds": [
+      "minecraft:dig/cloth1",
+      "minecraft:dig/cloth2",
+      "minecraft:dig/cloth3",
+      "minecraft:dig/cloth4"
+    ]
+  },
+  "entity.rotten_tomato.throw": {
+    "subtitle": "farmersdelight.subtitles.rotten_tomato.throw",
+    "sounds": [
+      "minecraft:random/bow"
+    ]
+  },
+  "entity.rotten_tomato.hit": {
+    "subtitle": "farmersdelight.subtitles.rotten_tomato.hit",
+    "sounds": [
+      "minecraft:mob/slime/attack1",
+      "minecraft:mob/slime/attack2"
+    ]
+  }
+}

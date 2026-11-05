@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/stone_hoe"},"overrides":[{"predicate":{"custom_model_data":2301142},"model":"slimetinker:tool_building_guide/tool_hoe_dummy"}]}

@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"farmersdelight:block/wild_cabbages"},"overrides":[{"predicate":{"custom_model_data":2500001},"model":"farmersdelight:item/wild_cabbages"}]}

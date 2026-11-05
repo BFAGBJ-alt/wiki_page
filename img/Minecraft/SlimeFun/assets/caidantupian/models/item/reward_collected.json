@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"online_rewards:reward_collected"},"overrides":[{"predicate":{"custom_model_data":20247},"model":"caidantupian:item/reward_collected"}]}

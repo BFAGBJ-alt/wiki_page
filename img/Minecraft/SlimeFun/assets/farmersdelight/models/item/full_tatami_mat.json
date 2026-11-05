@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/full_tatami_mat"},"overrides":[{"predicate":{"custom_model_data":2500036},"model":"farmersdelight:item/full_tatami_mat"}]}

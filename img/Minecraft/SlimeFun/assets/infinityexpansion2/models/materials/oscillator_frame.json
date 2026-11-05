@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "infinityexpansion2:materials/oscillator_frame"
+	},
+	"author": "Pandicka"
+}

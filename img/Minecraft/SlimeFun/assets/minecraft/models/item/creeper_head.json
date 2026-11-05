@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/template_skull","overrides":[{"predicate":{"custom_model_data":5611110},"model":"vegas:item/darts_creeper"}]}

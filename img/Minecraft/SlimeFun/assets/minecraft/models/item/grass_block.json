@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/grass_block","overrides":[{"predicate":{"custom_model_data":2305035},"model":"infinityexpansion2:icons/ui_world_normal"},{"predicate":{"custom_model_data":2305150},"model":"block/grass_block"}]}

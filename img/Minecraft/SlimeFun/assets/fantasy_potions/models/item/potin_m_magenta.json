@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"fantasy_potions:item/m/magenta"},"overrides":[{"predicate":{"custom_model_data":20199},"model":"fantasy_potions:item/potin_m_magenta"}]}

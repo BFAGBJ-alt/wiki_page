@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"auraskills:skill_agility"},"overrides":[{"predicate":{"custom_model_data":2500015},"model":"auraskills:item/skill_agility"}]}

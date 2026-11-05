@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/grindstone","overrides":[{"predicate":{"custom_model_data":2301175},"model":"slimetinker:workstations/tinkers_mod_station"}]}

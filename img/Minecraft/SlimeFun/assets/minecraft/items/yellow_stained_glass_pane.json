@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":230524.0,"model":{"type":"model","model":"item/yellow_stained_glass_pane"}}],"fallback":{"type":"model","model":"item/yellow_stained_glass_pane"}}}

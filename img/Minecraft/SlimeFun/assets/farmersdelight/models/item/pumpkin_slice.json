@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/pumpkin_slice"},"overrides":[{"predicate":{"custom_model_data":2500000},"model":"farmersdelight:item/pumpkin_slice"}]}

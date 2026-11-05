@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/barrel","overrides":[{"predicate":{"custom_model_data":2203024},"model":"gastronomicon:basic_machines/gn_fermenter"},{"predicate":{"custom_model_data":2203025},"model":"gastronomicon:basic_machines/gn_large_fermenter"},{"predicate":{"custom_model_data":2305054},"model":"block/barrel"},{"predicate":{"custom_model_data":2305055},"model":"block/barrel"}]}

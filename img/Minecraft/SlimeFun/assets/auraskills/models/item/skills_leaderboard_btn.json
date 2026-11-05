@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"auraskills:skills_leaderboard_btn"},"overrides":[{"predicate":{"custom_model_data":2500007},"model":"auraskills:item/skills_leaderboard_btn"}]}

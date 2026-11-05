@@ -1,0 +1,1 @@
+{"parent":"supreme:weapons/shield/supreme_shield_thornium","overrides":[{"predicate":{"blocking":0,"custom_model_data":2201901},"model":"supreme:weapons/shield/supreme_shield_thornium"},{"predicate":{"blocking":1,"custom_model_data":2201901},"model":"supreme:weapons/shield/supreme_shield_thornium_blocking"}]}

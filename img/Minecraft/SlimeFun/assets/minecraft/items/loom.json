@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2301174.0,"model":{"type":"model","model":"slimetinker:workstations/tinkers_swapping_station"}},{"threshold":2305008.0,"model":{"type":"model","model":"block/loom"}}],"fallback":{"type":"model","model":"block/loom"}}}

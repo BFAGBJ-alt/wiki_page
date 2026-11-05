@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/wheat_seeds"},"overrides":[{"predicate":{"custom_model_data":230516},"model":"infinityexpansion2:icons/ui_chance"},{"predicate":{"custom_model_data":2203039},"model":"gastronomicon:ingredient/gn_barley_seeds"},{"predicate":{"custom_model_data":2203070},"model":"gastronomicon:ingredient/gn_peas"}]}

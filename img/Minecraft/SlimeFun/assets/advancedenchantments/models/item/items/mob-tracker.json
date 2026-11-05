@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"advancedenchantments:items/mob-tracker"},"overrides":[{"predicate":{"custom_model_data":10},"model":"advancedenchantments:item/items/mob-tracker"}]}

@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2201556.0,"model":{"type":"model","model":"supreme:components/supreme_carriage_machine"}}],"fallback":{"type":"model","model":"block/dead_horn_coral_block"}}}

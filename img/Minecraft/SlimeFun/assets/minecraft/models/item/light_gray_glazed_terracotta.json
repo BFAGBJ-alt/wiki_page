@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/light_gray_glazed_terracotta","overrides":[{"predicate":{"custom_model_data":2305203},"model":"infinityexpansion2:generators/void_panel"}]}

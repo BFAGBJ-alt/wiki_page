@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"auraskills:skill_ship"},"overrides":[{"predicate":{"custom_model_data":2500027},"model":"auraskills:item/skill_ship"}]}

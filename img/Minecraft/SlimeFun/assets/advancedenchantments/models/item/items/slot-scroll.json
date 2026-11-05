@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"advancedenchantments:items/slot-scroll"},"overrides":[{"predicate":{"custom_model_data":14},"model":"advancedenchantments:item/items/slot-scroll"}]}

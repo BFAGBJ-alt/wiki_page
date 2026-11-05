@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/wheat"},"overrides":[{"predicate":{"custom_model_data":2203038},"model":"gastronomicon:ingredient/gn_barley"},{"predicate":{"custom_model_data":2203040},"model":"gastronomicon:ingredient/gn_rye"},{"predicate":{"custom_model_data":2203042},"model":"gastronomicon:ingredient/gn_sorghum"}]}

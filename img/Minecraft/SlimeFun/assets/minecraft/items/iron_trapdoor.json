@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2203014.0,"model":{"type":"model","model":"gastronomicon:tools/gn_hunting_trap"}}],"fallback":{"type":"model","model":"block/iron_trapdoor_bottom"}}}

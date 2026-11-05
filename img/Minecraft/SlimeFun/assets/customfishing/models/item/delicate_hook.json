@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"customfishing:hook/delicate_hook"},"overrides":[{"predicate":{"custom_model_data":50000},"model":"customfishing:item/delicate_hook"}]}

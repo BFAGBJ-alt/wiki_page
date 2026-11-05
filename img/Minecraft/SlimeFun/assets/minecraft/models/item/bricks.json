@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/bricks","overrides":[{"predicate":{"custom_model_data":2200622},"model":"infinityexpansion:singularities/copper_singularity"}]}

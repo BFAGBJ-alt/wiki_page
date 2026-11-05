@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/campfire"},"overrides":[{"predicate":{"custom_model_data":114001},"model":"farmersdelight:gui/icons/heat_indicator"},{"predicate":{"custom_model_data":114002},"model":"farmersdelight:item/button_cooking_pot"}]}

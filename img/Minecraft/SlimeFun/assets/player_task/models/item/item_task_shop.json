@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"player_task:items/item_task_shop"},"overrides":[{"predicate":{"custom_model_data":20280},"model":"player_task:item/item_task_shop"}]}

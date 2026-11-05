@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"customfishing:bait/simple_bait"},"overrides":[{"predicate":{"custom_model_data":76008},"model":"customfishing:item/simple_bait"}]}

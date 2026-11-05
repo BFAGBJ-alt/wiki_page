@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"auraskills:skills_xp_source_btn"},"overrides":[{"predicate":{"custom_model_data":2500006},"model":"auraskills:item/skills_xp_source_btn"}]}

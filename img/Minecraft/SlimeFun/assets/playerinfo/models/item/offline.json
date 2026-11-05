@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"playerinfo:offline"},"overrides":[{"predicate":{"custom_model_data":81019},"model":"playerinfo:item/offline"}]}

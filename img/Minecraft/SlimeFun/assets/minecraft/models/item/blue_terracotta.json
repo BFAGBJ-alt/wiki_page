@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/blue_terracotta","overrides":[{"predicate":{"custom_model_data":2200518},"model":"slimefun:slimefun/energy/fluid_pump"}]}

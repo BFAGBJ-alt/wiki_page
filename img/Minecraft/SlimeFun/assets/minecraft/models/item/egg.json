@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/egg"},"overrides":[{"predicate":{"custom_model_data":2203131},"model":"gastronomicon:food/gn_fried_egg"},{"predicate":{"custom_model_data":2203132},"model":"gastronomicon:food/gn_hard_boiled_egg"}]}

@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"playerinfo:points"},"overrides":[{"predicate":{"custom_model_data":81021},"model":"playerinfo:item/points"}]}

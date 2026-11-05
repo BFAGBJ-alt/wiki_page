@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"auraskills:skill_alchemy"},"overrides":[{"predicate":{"custom_model_data":2500018},"model":"auraskills:item/skill_alchemy"}]}

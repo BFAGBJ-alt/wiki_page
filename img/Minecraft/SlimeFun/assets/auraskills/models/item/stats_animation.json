@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"auraskills:stats_animation"},"overrides":[{"predicate":{"custom_model_data":2500023},"model":"auraskills:item/stats_animation"}]}

@@ -1,0 +1,1 @@
+{"parent":"slimefun:slimefun/weapons/soulbound_trident","overrides":[{"predicate":{"custom_model_data":2200273},"model":"slimefun:slimefun/weapons/soulbound_trident"},{"predicate":{"throwing":1,"custom_model_data":2200273},"model":"slimefun:slimefun/weapons/soulbound_trident_throwing"}]}

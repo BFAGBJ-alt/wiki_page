@@ -1,0 +1,1 @@
+{"parent":"item/fishing_rod","textures":{"layer0":"customfishing:rod/bone_rod"},"overrides":[{"predicate":{"cast":0,"custom_model_data":74102},"model":"customfishing:item/bone_rod"},{"predicate":{"cast":1,"custom_model_data":74102},"model":"customfishing:item/bone_rod_cast"}]}

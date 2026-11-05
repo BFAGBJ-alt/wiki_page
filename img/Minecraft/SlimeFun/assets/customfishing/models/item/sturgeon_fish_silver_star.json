@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"customfishing:fish/sturgeon_fish_silver_star"},"overrides":[{"predicate":{"custom_model_data":50041},"model":"customfishing:item/sturgeon_fish_silver_star"}]}

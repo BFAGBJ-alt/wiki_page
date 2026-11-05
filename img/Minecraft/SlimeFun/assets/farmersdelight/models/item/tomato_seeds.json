@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/tomato_seeds"},"overrides":[{"predicate":{"custom_model_data":2500012},"model":"customcrops:item/customcrops/crop/tomato/tomato_seeds"}]}

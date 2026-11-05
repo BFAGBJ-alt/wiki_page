@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"playertitle:tags"},"display":{"gui":{"translation":[0.0,-2.0,0.0],"scale":[1.0,1.0,1.0]}},"overrides":[{"predicate":{"custom_model_data":2500002},"model":"playertitle:item/tags"}]}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/hay_block","overrides":[{"predicate":{"custom_model_data":2200483},"model":"slimefun:slimefun/energy/auto_breeder"},{"predicate":{"custom_model_data":2200484},"model":"slimefun:slimefun/energy/animal_growth_accelerator"},{"predicate":{"custom_model_data":2200564},"model":"slimefun:slimefun/energy/produce_collector"}]}

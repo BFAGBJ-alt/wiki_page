@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/sea_pickle"},"overrides":[{"predicate":{"custom_model_data":2201327},"model":"fluffymachines:cargo/cargo_manipulator"},{"predicate":{"custom_model_data":2203053},"model":"gastronomicon:ingredient/gn_cucumber"}]}

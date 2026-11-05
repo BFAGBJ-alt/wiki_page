@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/squid_ink_pasta"},"overrides":[{"predicate":{"custom_model_data":2500034},"model":"farmersdelight:item/squid_ink_pasta"}]}

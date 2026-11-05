@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/fern"},"overrides":[{"predicate":{"custom_model_data":2203060},"model":"gastronomicon:ingredient/gn_mint"},{"predicate":{"custom_model_data":2203093},"model":"gastronomicon:ingredient/gn_fiddleheads"}]}

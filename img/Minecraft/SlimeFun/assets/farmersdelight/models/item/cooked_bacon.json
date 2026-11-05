@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/cooked_bacon"},"overrides":[{"predicate":{"custom_model_data":2500005},"model":"farmersdelight:item/cooked_bacon"}]}

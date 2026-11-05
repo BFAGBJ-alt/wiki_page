@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"hmccosmetics:item/armor/icons/backpack_icon"},"overrides":[{"predicate":{"custom_model_data":20249},"model":"hmccosmetics:item/hmc_backpack_icon"}]}

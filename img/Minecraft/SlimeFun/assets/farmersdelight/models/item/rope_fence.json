@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:block/rope_fence"},"overrides":[{"predicate":{"custom_model_data":2500005},"model":"farmersdelight:block/rope_fence_inventory"}]}

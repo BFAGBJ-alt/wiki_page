@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"customfishing:fish/tuna_fish_silver_star"},"overrides":[{"predicate":{"custom_model_data":50002},"model":"customfishing:item/tuna_fish_silver_star"}]}

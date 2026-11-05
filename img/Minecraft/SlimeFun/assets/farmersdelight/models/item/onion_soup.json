@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/onion_soup"},"overrides":[{"predicate":{"custom_model_data":2500026},"model":"farmersdelight:item/onion_soup"}]}

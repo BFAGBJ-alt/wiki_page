@@ -1,0 +1,1 @@
+{"parent":"farmersdelight:item/mug","textures":{"layer0":"farmersdelight:item/hot_cocoa"},"overrides":[{"predicate":{"custom_model_data":20469},"model":"farmersdelight:item/hot_cocoa"}]}

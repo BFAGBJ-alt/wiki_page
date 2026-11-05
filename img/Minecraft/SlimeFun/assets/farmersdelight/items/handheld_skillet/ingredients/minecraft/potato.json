@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {"type": "minecraft:model", "model": "farmersdelight:item/skillet_cooking"},
+      {"type": "minecraft:model", "model": "farmersdelight:item/handheld_skillet/ingredients/minecraft/potato"}
+    ]
+  }
+}

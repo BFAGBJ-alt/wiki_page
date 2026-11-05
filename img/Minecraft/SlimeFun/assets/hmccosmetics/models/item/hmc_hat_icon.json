@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"hmccosmetics:item/armor/icons/hat_icon"},"overrides":[{"predicate":{"custom_model_data":20240},"model":"hmccosmetics:item/hmc_hat_icon"}]}

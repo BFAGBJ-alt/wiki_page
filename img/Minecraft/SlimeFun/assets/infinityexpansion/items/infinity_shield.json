@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"condition","on_true":{"type":"model","model":"infinityexpansion:tools/cosmic_aegis/cosmic_aegis_blocking"},"on_false":{"type":"model","model":"infinityexpansion:tools/cosmic_aegis/cosmic_aegis"},"property":"using_item"}}

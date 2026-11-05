@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"advancedenchantments:items/tinker_accept"},"overrides":[{"predicate":{"custom_model_data":35},"model":"advancedenchantments:item/items/tinker_accept"}]}

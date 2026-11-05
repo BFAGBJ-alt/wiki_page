@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"customfishing:fish/pike_fish_silver_star"},"overrides":[{"predicate":{"custom_model_data":50005},"model":"customfishing:item/pike_fish_silver_star"}]}

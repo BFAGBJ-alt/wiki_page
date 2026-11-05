@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/redstone_torch"},"overrides":[{"predicate":{"custom_model_data":2200392},"model":"slimefun:slimefun/gps/gps_marker_tool"},{"predicate":{"custom_model_data":2202014},"model":"slimefunwarfare:general/radio"}]}

@@ -1,0 +1,271 @@
+{
+	"credit": "MadewithBlockbench",
+	"textures": {
+		"particle": "hmccosmetics:item/hands/mctown/mctown_popsicle_blue"
+	},
+	"elements": [
+		{
+			"from": [
+				7,
+				0,
+				7.5
+			],
+			"to": [
+				9,
+				6,
+				8.5
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					15,
+					8,
+					15.5
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						8.66667,
+						0.66667,
+						10,
+						4.66667
+					],
+					"texture": "#particle"
+				},
+				"east": {
+					"uv": [
+						10,
+						0.66667,
+						10.66667,
+						4.66667
+					],
+					"texture": "#particle"
+				},
+				"south": {
+					"uv": [
+						8.66667,
+						0.66667,
+						10,
+						4.66667
+					],
+					"texture": "#particle"
+				},
+				"west": {
+					"uv": [
+						10,
+						0.66667,
+						10.66667,
+						4.66667
+					],
+					"texture": "#particle"
+				},
+				"down": {
+					"uv": [
+						10,
+						5.33333,
+						8.66667,
+						4.66667
+					],
+					"texture": "#particle"
+				}
+			}
+		},
+		{
+			"from": [
+				4.5,
+				6,
+				6.5
+			],
+			"to": [
+				11.5,
+				18,
+				9.5
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					15.5,
+					14,
+					14.5
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0.66667,
+						2.66667,
+						5.33333,
+						10.66667
+					],
+					"texture": "#particle"
+				},
+				"east": {
+					"uv": [
+						5.33333,
+						2.66667,
+						7.33333,
+						10.66667
+					],
+					"texture": "#particle"
+				},
+				"south": {
+					"uv": [
+						0.66667,
+						2.66667,
+						5.33333,
+						10.66667
+					],
+					"texture": "#particle"
+				},
+				"west": {
+					"uv": [
+						5.33333,
+						2.66667,
+						7.33333,
+						10.66667
+					],
+					"texture": "#particle"
+				},
+				"up": {
+					"uv": [
+						5.33333,
+						2.66667,
+						0.66667,
+						0.66667
+					],
+					"texture": "#particle"
+				},
+				"down": {
+					"uv": [
+						5.33333,
+						12.66667,
+						0.66667,
+						10.66667
+					],
+					"texture": "#particle"
+				}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [
+				0,
+				-16,
+				0
+			],
+			"translation": [
+				0,
+				3,
+				0.5
+			],
+			"scale": [
+				0.55,
+				0.55,
+				0.55
+			]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [
+				0,
+				-16,
+				0
+			],
+			"translation": [
+				0,
+				3,
+				0.5
+			],
+			"scale": [
+				0.55,
+				0.55,
+				0.55
+			]
+		},
+		"firstperson_righthand": {
+			"translation": [
+				1.5,
+				2.5,
+				0.5
+			],
+			"scale": [
+				0.4,
+				0.4,
+				0.4
+			]
+		},
+		"firstperson_lefthand": {
+			"translation": [
+				1.5,
+				2.5,
+				0.5
+			],
+			"scale": [
+				0,
+				0,
+				0
+			]
+		},
+		"ground": {
+			"translation": [
+				0,
+				2.75,
+				0
+			],
+			"scale": [
+				0.5,
+				0.5,
+				0.5
+			]
+		},
+		"gui": {
+			"rotation": [
+				-45,
+				-180,
+				45
+			],
+			"translation": [
+				-1.5,
+				-1,
+				0
+			],
+			"scale": [
+				0.8,
+				0.8,
+				0.8
+			]
+		},
+		"head": {
+			"rotation": [
+				65,
+				0,
+				0
+			],
+			"translation": [
+				0,
+				-8,
+				-11.75
+			],
+			"scale": [
+				0.75,
+				0.75,
+				0.75
+			]
+		},
+		"fixed": {
+			"translation": [
+				0,
+				-1,
+				-2
+			],
+			"scale": [
+				1.5,
+				1.5,
+				1.5
+			]
+		}
+	}
+}

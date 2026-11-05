@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2200278.0,"model":{"type":"model","model":"slimefun:slimefun/tools/soulbound_hoe"}},{"threshold":2200804.0,"model":{"type":"model","model":"slimy_tree_taps:treetap/diamond_tree_tap"}}],"fallback":{"type":"model","model":"item/diamond_hoe"}}}

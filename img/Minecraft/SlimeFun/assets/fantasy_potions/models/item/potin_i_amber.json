@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"fantasy_potions:item/i/amber"},"overrides":[{"predicate":{"custom_model_data":20128},"model":"fantasy_potions:item/potin_i_amber"}]}

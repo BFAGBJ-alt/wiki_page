@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/end_stone","overrides":[{"predicate":{"custom_model_data":2305037},"model":"infinityexpansion2:icons/ui_world_the_end"},{"predicate":{"custom_model_data":2305153},"model":"block/end_stone"}]}

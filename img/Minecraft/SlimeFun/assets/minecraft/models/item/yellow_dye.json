@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/yellow_dye"},"overrides":[{"predicate":{"custom_model_data":2203133},"model":"gastronomicon:food/gn_scrambled_eggs"},{"predicate":{"custom_model_data":2203134},"model":"gastronomicon:food/gn_custard"},{"predicate":{"custom_model_data":2300059},"model":"cultivation:products/clt_turmeric"}]}

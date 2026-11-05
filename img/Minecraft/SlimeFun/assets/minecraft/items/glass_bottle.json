@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2200283.0,"model":{"type":"model","model":"slimefun:slimefun/basic_machines/juicer"}},{"threshold":2200314.0,"model":{"type":"model","model":"slimefun:slimefun/magical_gadgets/flask_of_knowledge"}}],"fallback":{"type":"model","model":"item/glass_bottle"}}}

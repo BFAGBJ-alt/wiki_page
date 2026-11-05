@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"auraskills:empty_slot"},"overrides":[{"predicate":{"custom_model_data":2500000},"model":"auraskills:item/empty_slot"}]}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/polished_blackstone_brick_wall_inventory","overrides":[{"predicate":{"custom_model_data":2301005},"model":"slimetinker:materials/spout"}]}

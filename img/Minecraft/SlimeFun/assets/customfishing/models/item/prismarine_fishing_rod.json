@@ -1,0 +1,1 @@
+{"parent":"item/fishing_rod","textures":{"layer0":"customfishing:rod/prismarine_fishing_rod"},"overrides":[{"predicate":{"cast":0,"custom_model_data":74118},"model":"customfishing:item/prismarine_fishing_rod"},{"predicate":{"cast":1,"custom_model_data":74118},"model":"customfishing:item/prismarine_fishing_rod_cast"}]}

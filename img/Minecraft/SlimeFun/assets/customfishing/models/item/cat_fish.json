@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"customfishing:fish/cat_fish"},"overrides":[{"predicate":{"custom_model_data":50022},"model":"customfishing:item/cat_fish"}]}

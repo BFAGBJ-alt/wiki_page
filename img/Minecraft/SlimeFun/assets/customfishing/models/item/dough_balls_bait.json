@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"customfishing:bait/dough_balls_bait"},"overrides":[{"predicate":{"custom_model_data":76006},"model":"customfishing:item/dough_balls_bait"}]}

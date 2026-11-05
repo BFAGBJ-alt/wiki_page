@@ -1,0 +1,193 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"all": "farmersdelight:block/rope_fence_gate_wall",
+		"particle": "farmersdelight:block/rope_fence_gate"
+	},
+	"elements": [
+		{
+			"name": "gate",
+			"from": [4, 4, 8],
+			"to": [12, 5, 8],
+			"faces": {
+				"north": {"uv": [4, 11, 12, 12], "texture": "#all"},
+				"south": {"uv": [4, 11, 12, 12], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [0, 6, 8],
+			"to": [1, 11, 8],
+			"faces": {
+				"north": {"uv": [15, 5, 16, 10], "texture": "#all"},
+				"south": {"uv": [0, 5, 1, 10], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [1, 5, 8],
+			"to": [3, 7, 8],
+			"faces": {
+				"north": {"uv": [13, 9, 15, 11], "texture": "#all"},
+				"south": {"uv": [1, 9, 3, 11], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [1, 10, 8],
+			"to": [3, 11, 8],
+			"faces": {
+				"north": {"uv": [13, 5, 15, 6], "texture": "#all"},
+				"south": {"uv": [1, 5, 3, 6], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [3, 5, 8],
+			"to": [5, 11, 8],
+			"faces": {
+				"north": {"uv": [11, 5, 13, 11], "texture": "#all"},
+				"south": {"uv": [3, 5, 5, 11], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [5, 5, 8],
+			"to": [7, 6, 8],
+			"faces": {
+				"north": {"uv": [9, 10, 11, 11], "texture": "#all"},
+				"south": {"uv": [5, 10, 7, 11], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [5, 9, 8],
+			"to": [7, 11, 8],
+			"faces": {
+				"north": {"uv": [9, 5, 11, 7], "texture": "#all"},
+				"south": {"uv": [5, 5, 7, 7], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [7, 5, 8],
+			"to": [9, 11, 8],
+			"faces": {
+				"north": {"uv": [7, 5, 9, 11], "texture": "#all"},
+				"south": {"uv": [7, 5, 9, 11], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [9, 5, 8],
+			"to": [11, 6, 8],
+			"faces": {
+				"north": {"uv": [5, 10, 7, 11], "texture": "#all"},
+				"south": {"uv": [9, 10, 11, 11], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [9, 9, 8],
+			"to": [11, 11, 8],
+			"faces": {
+				"north": {"uv": [5, 5, 7, 7], "texture": "#all"},
+				"south": {"uv": [9, 5, 11, 7], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [11, 5, 8],
+			"to": [13, 11, 8],
+			"faces": {
+				"north": {"uv": [3, 5, 5, 11], "texture": "#all"},
+				"south": {"uv": [11, 5, 13, 11], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [13, 5, 8],
+			"to": [15, 7, 8],
+			"faces": {
+				"north": {"uv": [1, 9, 3, 11], "texture": "#all"},
+				"south": {"uv": [13, 9, 15, 11], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [13, 10, 8],
+			"to": [15, 11, 8],
+			"faces": {
+				"north": {"uv": [1, 5, 3, 6], "texture": "#all"},
+				"south": {"uv": [13, 5, 15, 6], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [15, 6, 8],
+			"to": [16, 11, 8],
+			"faces": {
+				"north": {"uv": [0, 5, 1, 10], "texture": "#all"},
+				"south": {"uv": [15, 5, 16, 10], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [0, 11, 8],
+			"to": [4, 12, 8],
+			"faces": {
+				"north": {"uv": [12, 4, 16, 5], "texture": "#all"},
+				"south": {"uv": [0, 4, 4, 5], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [12, 11, 8],
+			"to": [16, 12, 8],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 5], "texture": "#all"},
+				"south": {"uv": [12, 4, 16, 5], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [0, 12, 8],
+			"to": [1, 13, 8],
+			"faces": {
+				"north": {"uv": [15, 3, 16, 4], "texture": "#all"},
+				"south": {"uv": [0, 3, 1, 4], "texture": "#all"}
+			}
+		},
+		{
+			"name": "gate",
+			"from": [15, 12, 8],
+			"to": [16, 13, 8],
+			"faces": {
+				"north": {"uv": [0, 3, 1, 4], "texture": "#all"},
+				"south": {"uv": [15, 3, 16, 4], "texture": "#all"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [30, 45, 0],
+			"scale": [0.625, 0.7, 0.7]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "wall_closed",
+			"origin": [15, 9, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+		}
+	]
+}

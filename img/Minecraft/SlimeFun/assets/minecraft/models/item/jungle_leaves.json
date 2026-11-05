@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/jungle_leaves","overrides":[{"predicate":{"custom_model_data":2300057},"model":"cultivation:products/clt_tarragon"}]}

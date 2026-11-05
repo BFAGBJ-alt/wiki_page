@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/melon","overrides":[{"predicate":{"custom_model_data":2203046},"model":"gastronomicon:ingredient/gn_squash"},{"predicate":{"custom_model_data":2203082},"model":"gastronomicon:ingredient/gn_cantaloupe"},{"predicate":{"custom_model_data":2203084},"model":"gastronomicon:ingredient/gn_honeydew_melon"}]}

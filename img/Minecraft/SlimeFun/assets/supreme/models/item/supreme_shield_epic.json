@@ -1,0 +1,1 @@
+{"parent":"supreme:weapons/shield/supreme_shield_epic","overrides":[{"predicate":{"blocking":0,"custom_model_data":2201904},"model":"supreme:weapons/shield/supreme_shield_epic"},{"predicate":{"blocking":1,"custom_model_data":2201904},"model":"supreme:weapons/shield/supreme_shield_epic_blocking"}]}

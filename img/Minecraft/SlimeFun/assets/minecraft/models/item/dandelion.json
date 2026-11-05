@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/dandelion"},"overrides":[{"predicate":{"custom_model_data":2300036},"model":"cultivation:products/clt_cumin"}]}

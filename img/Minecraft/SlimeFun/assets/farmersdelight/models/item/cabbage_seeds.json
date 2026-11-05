@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/cabbage_seeds"},"overrides":[{"predicate":{"custom_model_data":2500011},"model":"customcrops:item/customcrops/crop/cabbage/cabbage_seeds"}]}

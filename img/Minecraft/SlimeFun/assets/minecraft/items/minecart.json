@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2201318.0,"model":{"type":"model","model":"fluffymachines:misc/dolly"}},{"threshold":2301091.0,"model":{"type":"model","model":"slimetinker:casts/die_repair_kit"}}],"fallback":{"type":"model","model":"item/minecart"}}}

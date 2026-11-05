@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"fantasy_potions:item/h/gold"},"overrides":[{"predicate":{"custom_model_data":20117},"model":"fantasy_potions:item/potin_h_gold"}]}

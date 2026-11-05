@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2301084.0,"model":{"type":"model","model":"slimetinker:materials/nuggets/nugget_cast_coal"}}],"fallback":{"type":"model","model":"block/polished_blackstone_button_inventory"}}}

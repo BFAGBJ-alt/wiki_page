@@ -1,0 +1,1 @@
+{"parent":"supreme:weapons/shield/supreme_shield_legendary","overrides":[{"predicate":{"blocking":0,"custom_model_data":2201905},"model":"supreme:weapons/shield/supreme_shield_legendary"},{"predicate":{"blocking":1,"custom_model_data":2201905},"model":"supreme:weapons/shield/supreme_shield_legendary_blocking"}]}

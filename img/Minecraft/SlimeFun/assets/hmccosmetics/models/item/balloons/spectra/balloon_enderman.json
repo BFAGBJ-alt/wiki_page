@@ -1,0 +1,124 @@
+﻿{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "hmccosmetics:item/balloons/spectra/balloon_enderman"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [3, 15, 4.5],
+			"to": [11, 25, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, -9, 6.5]},
+			"faces": {
+				"north": {"uv": [5.125, 0.625, 6.125, 1.875], "texture": "#0"},
+				"east": {"uv": [4.5, 0.625, 5.125, 1.875], "texture": "#0"},
+				"south": {"uv": [6.75, 0.625, 7.75, 1.875], "texture": "#0"},
+				"west": {"uv": [6.125, 0.625, 6.75, 1.875], "texture": "#0"},
+				"up": {"uv": [6.125, 0.625, 5.125, 0], "texture": "#0"},
+				"down": {"uv": [7.125, 0, 6.125, 0.625], "texture": "#0"}
+			}
+		},
+		{
+			"name": "head",
+			"from": [2, 22, 2],
+			"to": [12, 32, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, -15, 6.5]},
+			"faces": {
+				"north": {"uv": [1.125, 3.375, 2.25, 4.5], "texture": "#0"},
+				"east": {"uv": [0, 3.375, 1.125, 4.5], "texture": "#0"},
+				"south": {"uv": [3.375, 3.375, 4.5, 4.5], "texture": "#0"},
+				"west": {"uv": [2.25, 3.375, 3.375, 4.5], "texture": "#0"},
+				"up": {"uv": [2.25, 3.375, 1.125, 2.25], "texture": "#0"},
+				"down": {"uv": [3.375, 2.25, 2.25, 3.375], "texture": "#0"}
+			}
+		},
+		{
+			"name": "headwear",
+			"from": [3, 24, 3],
+			"to": [11, 32, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, -15, 6.5]},
+			"faces": {
+				"north": {"uv": [1.125, 1.125, 2.25, 2.25], "texture": "#0"},
+				"east": {"uv": [0, 1.125, 1.125, 2.25], "texture": "#0"},
+				"south": {"uv": [3.375, 1.125, 4.5, 2.25], "texture": "#0"},
+				"west": {"uv": [2.25, 1.125, 3.375, 2.25], "texture": "#0"},
+				"up": {"uv": [2.25, 1.125, 1.125, 0], "texture": "#0"},
+				"down": {"uv": [3.375, 0, 2.25, 1.125], "texture": "#0"}
+			}
+		},
+		{
+			"name": "right_arm",
+			"from": [11, 1, 5.5],
+			"to": [13, 24, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, -15, 6.5]},
+			"faces": {
+				"north": {"uv": [0.375, 4.875, 0.625, 7.75], "texture": "#0"},
+				"east": {"uv": [0, 4.875, 0.375, 7.75], "texture": "#0"},
+				"south": {"uv": [1, 4.875, 1.25, 7.75], "texture": "#0"},
+				"west": {"uv": [0.625, 4.875, 1, 7.75], "texture": "#0"},
+				"up": {"uv": [0.625, 4.875, 0.375, 4.5], "texture": "#0"},
+				"down": {"uv": [0.875, 4.5, 0.625, 4.875], "texture": "#0"}
+			}
+		},
+		{
+			"name": "left_arm",
+			"from": [1, 1, 5.5],
+			"to": [3, 24, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, -15, 6.5]},
+			"faces": {
+				"north": {"uv": [4.5, 4.5, 4.75, 7.375], "texture": "#0"},
+				"east": {"uv": [4.125, 4.5, 4.5, 7.375], "texture": "#0"},
+				"south": {"uv": [5.125, 4.5, 5.375, 7.375], "texture": "#0"},
+				"west": {"uv": [4.75, 4.5, 5.125, 7.375], "texture": "#0"},
+				"up": {"uv": [4.75, 4.5, 4.5, 4.125], "texture": "#0"},
+				"down": {"uv": [5, 4.125, 4.75, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "right_leg",
+			"from": [8, 0, 6],
+			"to": [10, 17, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, -7, 7]},
+			"faces": {
+				"north": {"uv": [2.5, 4.75, 2.75, 6.875], "texture": "#0"},
+				"east": {"uv": [2.25, 4.75, 2.5, 6.875], "texture": "#0"},
+				"south": {"uv": [3, 4.75, 3.25, 6.875], "texture": "#0"},
+				"west": {"uv": [2.75, 4.75, 3, 6.875], "texture": "#0"},
+				"up": {"uv": [2.75, 4.75, 2.5, 4.5], "texture": "#0"},
+				"down": {"uv": [3, 4.5, 2.75, 4.75], "texture": "#0"}
+			}
+		},
+		{
+			"name": "left_leg",
+			"from": [4, 0, 6],
+			"to": [6, 17, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, -7, 7]},
+			"faces": {
+				"north": {"uv": [1.5, 4.75, 1.75, 6.875], "texture": "#0"},
+				"east": {"uv": [1.25, 4.75, 1.5, 6.875], "texture": "#0"},
+				"south": {"uv": [2, 4.75, 2.25, 6.875], "texture": "#0"},
+				"west": {"uv": [1.75, 4.75, 2, 6.875], "texture": "#0"},
+				"up": {"uv": [1.75, 4.75, 1.5, 4.5], "texture": "#0"},
+				"down": {"uv": [2, 4.5, 1.75, 4.75], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [-147.75, 39.25, -180],
+			"translation": [0, -3, 0],
+			"scale": [0.56, 0.56, 0.56]
+		}
+	},
+	"groups": [
+		{
+			"name": "left_leg",
+			"origin": [-2, 30, 0],
+			"color": 0,
+			"boneType": "",
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

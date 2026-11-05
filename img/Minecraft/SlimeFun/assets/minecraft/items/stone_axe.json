@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2301141.0,"model":{"type":"model","model":"slimetinker:tool_building_guide/tool_axe_dummy"}}],"fallback":{"type":"model","model":"item/stone_axe"}}}

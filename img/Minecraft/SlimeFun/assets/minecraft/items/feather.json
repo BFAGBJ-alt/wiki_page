@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2200420.0,"model":{"type":"model","model":"slimefun:slimefun/magical_gadgets/elytra_scale"}},{"threshold":2500000.0,"model":{"type":"model","model":"fentai_guandan:item/liarsbar_50gs"}}],"fallback":{"type":"model","model":"item/feather"}}}

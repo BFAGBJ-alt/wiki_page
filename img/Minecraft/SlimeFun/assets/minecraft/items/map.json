@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":805.0,"model":{"type":"model","model":"globalmarketplus:item/air_menu_gmp"}}],"fallback":{"type":"model","model":"item/map"}}}

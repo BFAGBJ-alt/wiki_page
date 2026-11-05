@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"auraskills:skills_level_close"},"overrides":[{"predicate":{"custom_model_data":2500008},"model":"auraskills:item/skills_level_close"}]}

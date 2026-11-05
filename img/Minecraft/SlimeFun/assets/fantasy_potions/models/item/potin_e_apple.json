@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"fantasy_potions:item/e/apple"},"overrides":[{"predicate":{"custom_model_data":20065},"model":"fantasy_potions:item/potin_e_apple"}]}

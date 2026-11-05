@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2201412.0,"model":{"type":"model","model":"bump:magical_items/old_cpu"}},{"threshold":2203147.0,"model":{"type":"model","model":"gastronomicon:food/gn_tapioca_pearls"}}],"fallback":{"type":"model","model":"item/prismarine_crystals"}}}

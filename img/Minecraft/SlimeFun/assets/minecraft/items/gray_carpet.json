@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2203008.0,"model":{"type":"model","model":"gastronomicon:tools/gn_frying_pan"}}],"fallback":{"type":"model","model":"block/gray_carpet"}}}

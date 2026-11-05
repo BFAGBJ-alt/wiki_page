@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/chocolate_pie_slice"},"overrides":[{"predicate":{"custom_model_data":2500016},"model":"farmersdelight:item/chocolate_pie_slice"}]}

@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"customfishing:fish/red_spnapper_fish"},"overrides":[{"predicate":{"custom_model_data":50031},"model":"customfishing:item/red_spnapper_fish"}]}

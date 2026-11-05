@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":114001.0,"model":{"type":"model","model":"farmersdelight:gui/icons/heat_indicator"}},{"threshold":114002.0,"model":{"type":"model","model":"farmersdelight:item/button_cooking_pot"}}],"fallback":{"type":"model","model":"item/campfire"}}}

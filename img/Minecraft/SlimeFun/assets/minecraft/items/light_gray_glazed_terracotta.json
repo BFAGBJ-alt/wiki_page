@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2305203.0,"model":{"type":"model","model":"infinityexpansion2:generators/void_panel"}}],"fallback":{"type":"model","model":"block/light_gray_glazed_terracotta"}}}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/minecart"},"overrides":[{"predicate":{"custom_model_data":2201318},"model":"fluffymachines:misc/dolly"},{"predicate":{"custom_model_data":2301091},"model":"slimetinker:casts/die_repair_kit"}]}

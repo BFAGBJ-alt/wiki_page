@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/oak_trapdoor_bottom","overrides":[{"predicate":{"custom_model_data":2203015},"model":"gastronomicon:tools/gn_crab_trap"}]}

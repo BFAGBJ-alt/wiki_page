@@ -1,0 +1,1 @@
+{"parent":"item/fishing_rod","textures":{"layer0":"customfishing:rod/silver_rod"},"overrides":[{"predicate":{"cast":0,"custom_model_data":74120},"model":"customfishing:item/silver_rod"},{"predicate":{"cast":1,"custom_model_data":74120},"model":"customfishing:item/silver_rod_cast"}]}

@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"auraskills:monster_body_right"},"overrides":[{"predicate":{"custom_model_data":2500025},"model":"auraskills:item/monster_body_right"}]}

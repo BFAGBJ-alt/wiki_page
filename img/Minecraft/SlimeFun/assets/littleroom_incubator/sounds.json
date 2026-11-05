@@ -1,0 +1,74 @@
+{
+   "littleroom.incubator.place_egg":{
+		 "sounds": [
+			"littleroom/incubator/place_egg"
+		 ]
+	},
+   "littleroom.incubator.complete":{
+		 "sounds": [
+			"littleroom/incubator/complete"
+		 ]
+	},
+   "littleroom.incubator.reminder":{
+		 "sounds": [
+			"littleroom/incubator/reminder"
+		 ]
+	},
+   "littleroom.incubator.grab_egg":{
+		 "sounds": [
+			"littleroom/incubator/grab_egg"
+		 ]
+	},
+   "littleroom.incubator.bunny":{
+		 "sounds": [
+			"littleroom/incubator/pets/bunny_1",
+			"littleroom/incubator/pets/bunny_2",
+			"littleroom/incubator/pets/bunny_3"
+		 ]
+	},
+   "littleroom.incubator.cow":{
+		 "sounds": [
+			"littleroom/incubator/pets/cow_1",
+			"littleroom/incubator/pets/cow_2",
+			"littleroom/incubator/pets/cow_3",
+			"littleroom/incubator/pets/cow_4"
+		 ]
+	},
+   "littleroom.incubator.froggie":{
+		 "sounds": [
+			"littleroom/incubator/pets/froggie_1",
+			"littleroom/incubator/pets/froggie_2",
+			"littleroom/incubator/pets/froggie_3",
+			"littleroom/incubator/pets/froggie_4"
+		 ]
+	},
+   "littleroom.incubator.jelly":{
+		 "sounds": [
+			"littleroom/incubator/pets/jelly_1",
+			"littleroom/incubator/pets/jelly_2",
+			"littleroom/incubator/pets/jelly_3",
+			"littleroom/incubator/pets/jelly_4"
+		 ]
+	},
+   "littleroom.incubator.mole":{
+		 "sounds": [
+			"littleroom/incubator/pets/mole_1",
+			"littleroom/incubator/pets/mole_2",
+			"littleroom/incubator/pets/mole_3",
+			"littleroom/incubator/pets/mole_4"
+		 ]
+	},
+   "littleroom.incubator.sheep":{
+		 "sounds": [
+			"littleroom/incubator/pets/sheep_1",
+			"littleroom/incubator/pets/sheep_2",
+			"littleroom/incubator/pets/sheep_3",
+			"littleroom/incubator/pets/sheep_4"
+		 ]
+	},
+   "littleroom.incubator.feed":{
+		 "sounds": [
+			"littleroom/incubator/feed"
+		 ]
+	}
+}

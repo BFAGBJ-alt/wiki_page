@@ -1,0 +1,1 @@
+{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2305196.0,"model":{"type":"model","model":"item/prismarine_wall"}}],"fallback":{"type":"model","model":"block/prismarine_wall_inventory"}}}

@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"customfishing:fish/cat_fish_golden_star"},"overrides":[{"predicate":{"custom_model_data":50024},"model":"customfishing:item/cat_fish_golden_star"}]}
