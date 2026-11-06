@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/mutton_chops"},"overrides":[{"predicate":{"custom_model_data":2500011},"model":"farmersdelight:item/mutton_chops"}]}

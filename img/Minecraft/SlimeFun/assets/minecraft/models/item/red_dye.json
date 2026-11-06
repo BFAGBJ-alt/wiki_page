@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/red_dye"},"overrides":[{"predicate":{"custom_model_data":2203120},"model":"gastronomicon:ingredient/gn_crab"},{"predicate":{"custom_model_data":2203145},"model":"gastronomicon:food/gn_red_bean_paste"},{"predicate":{"custom_model_data":2300048},"model":"cultivation:products/clt_mace"}]}

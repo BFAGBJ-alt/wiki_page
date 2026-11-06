@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:block/safety_net"},"overrides":[{"predicate":{"custom_model_data":20464},"model":"farmersdelight:item/safety_net"}]}

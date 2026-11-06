@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/oxeye_daisy"},"overrides":[{"predicate":{"custom_model_data":2300040},"model":"cultivation:products/clt_fennel"}]}

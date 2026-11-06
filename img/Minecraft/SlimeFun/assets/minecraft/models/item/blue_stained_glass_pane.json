@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/blue_stained_glass"},"overrides":[{"predicate":{"custom_model_data":2305040},"model":"item/blue_stained_glass_pane"},{"predicate":{"custom_model_data":2305041},"model":"item/blue_stained_glass_pane"},{"predicate":{"custom_model_data":2305045},"model":"item/blue_stained_glass_pane"}]}

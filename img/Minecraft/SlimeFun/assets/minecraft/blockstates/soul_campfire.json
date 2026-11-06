@@ -1,1 +1,0 @@
-{"variants":{"facing=east,lit=false,signal_fire=true,waterlogged=false":{"model":"minecraft:block/empty"},"facing=north,lit=false,signal_fire=false,waterlogged=false":{"model":"farmersdelight:block/safety_net"},"facing=north,lit=false,signal_fire=true,waterlogged=true":{"model":"farmersdelight:block/safety_net"}}}

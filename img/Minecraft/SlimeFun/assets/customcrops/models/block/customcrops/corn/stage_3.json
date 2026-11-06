@@ -1,9 +1,0 @@
-{
-	"credit": "MadewithBlockbench",
-	"parent": "customcrops:block/customcrops/corn/stage_base",
-	"texture_size": [32, 32],
-	"textures": {
-		"particle": "customcrops:block/customcrops/corn/stage_3",
-		"corn": "customcrops:block/customcrops/corn/stage_3"
-	}
-}

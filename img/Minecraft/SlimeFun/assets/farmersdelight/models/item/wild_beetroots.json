@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:block/wild_beetroots"},"overrides":[{"predicate":{"custom_model_data":2500005},"model":"farmersdelight:item/wild_beetroots"}]}

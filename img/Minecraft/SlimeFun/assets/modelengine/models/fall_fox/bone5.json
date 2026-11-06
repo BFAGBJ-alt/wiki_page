@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/models/fall_fox","particle":"#0"},"elements":[{"from":[6.175,8.0,8.0],"to":[9.825,8.0,10.5],"faces":{"up":{"uv":[8.992,7.242,8.008,6.508],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[8.992,6.508,8.008,7.242],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

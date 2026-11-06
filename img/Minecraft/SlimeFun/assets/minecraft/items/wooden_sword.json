@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2201425.0,"model":{"type":"model","model":"bump:magical_weapons/bone_sword"}},{"threshold":2201428.0,"model":{"type":"model","model":"bump:magical_weapons/peach_sword"}}],"fallback":{"type":"model","model":"item/wooden_sword"}}}

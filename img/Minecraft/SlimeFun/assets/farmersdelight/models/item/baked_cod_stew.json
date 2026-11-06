@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/baked_cod_stew"},"overrides":[{"predicate":{"custom_model_data":2500024},"model":"farmersdelight:item/baked_cod_stew"}]}

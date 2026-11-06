@@ -1,1 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"customfishing:bait/magnetic_bait"},"overrides":[{"predicate":{"custom_model_data":50002},"model":"customfishing:item/magnetic_bait"}]}

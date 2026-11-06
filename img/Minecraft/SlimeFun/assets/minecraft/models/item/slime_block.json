@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/slime_block","overrides":[{"predicate":{"custom_model_data":2305004},"model":"block/slime_block"}]}

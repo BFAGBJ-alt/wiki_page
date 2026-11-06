@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/mangrove_propagule"},"overrides":[{"predicate":{"custom_model_data":2203049},"model":"gastronomicon:ingredient/gn_bok_choy"},{"predicate":{"custom_model_data":2203073},"model":"gastronomicon:ingredient/gn_green_onion"}]}

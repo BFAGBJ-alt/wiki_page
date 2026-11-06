@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/beetroot"},"overrides":[{"predicate":{"custom_model_data":114002},"model":"farmersdelight:item/tomato"},{"predicate":{"custom_model_data":2203044},"model":"gastronomicon:ingredient/gn_turnip"},{"predicate":{"custom_model_data":2300088},"model":"cultivation:products/clt_sweet_potato"}]}

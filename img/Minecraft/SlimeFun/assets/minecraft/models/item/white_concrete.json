@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/white_concrete","overrides":[{"predicate":{"custom_model_data":2200429},"model":"slimefun:slimefun/magical_gadgets/rainbow_concrete"},{"predicate":{"custom_model_data":2200435},"model":"slimefun:slimefun/christmas/rainbow_concrete_xmas"}]}

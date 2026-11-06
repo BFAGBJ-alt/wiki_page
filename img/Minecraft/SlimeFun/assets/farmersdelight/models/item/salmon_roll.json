@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/salmon_roll"},"overrides":[{"predicate":{"custom_model_data":2500014},"model":"farmersdelight:item/salmon_roll"}]}

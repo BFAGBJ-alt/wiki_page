@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2201576.0,"model":{"type":"model","model":"supreme:components/supreme_center_card_simple"}}],"fallback":{"type":"model","model":"item/music_disc_11"}}}

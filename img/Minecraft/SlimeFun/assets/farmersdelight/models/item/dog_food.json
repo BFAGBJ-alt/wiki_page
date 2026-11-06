@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/dog_food"},"overrides":[{"predicate":{"custom_model_data":2500041},"model":"farmersdelight:item/dog_food"}]}

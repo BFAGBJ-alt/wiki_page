@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2305197.0,"model":{"type":"model","model":"item/end_stone_brick_wall"}}],"fallback":{"type":"model","model":"block/end_stone_brick_wall_inventory"}}}

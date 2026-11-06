@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/cod_roll"},"overrides":[{"predicate":{"custom_model_data":2500015},"model":"farmersdelight:item/cod_roll"}]}

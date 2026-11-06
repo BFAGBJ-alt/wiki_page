@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/ratatouille"},"overrides":[{"predicate":{"custom_model_data":2500033},"model":"farmersdelight:item/ratatouille"}]}

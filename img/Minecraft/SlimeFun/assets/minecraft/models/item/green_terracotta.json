@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/green_terracotta","overrides":[{"predicate":{"custom_model_data":2200487},"model":"slimefun:slimefun/energy/food_composter"},{"predicate":{"custom_model_data":2200488},"model":"slimefun:slimefun/energy/food_composter_2"}]}

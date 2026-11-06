@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2301173.0,"model":{"type":"model","model":"slimetinker:workstations/tinkers_repair_bench"}}],"fallback":{"type":"model","model":"block/cartography_table"}}}

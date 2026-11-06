@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/stone_pickaxe"},"overrides":[{"predicate":{"custom_model_data":2301140},"model":"slimetinker:tool_building_guide/tool_pickaxe_dummy"}]}

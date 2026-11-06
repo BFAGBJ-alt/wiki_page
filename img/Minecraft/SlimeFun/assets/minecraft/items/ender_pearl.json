@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2201409.0,"model":{"type":"model","model":"bump:magical_items/mecha_gear"}}],"fallback":{"type":"model","model":"item/ender_pearl"}}}

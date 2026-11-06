@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/quartz_bricks","overrides":[{"predicate":{"custom_model_data":2305169},"model":"block/quartz_bricks"},{"predicate":{"custom_model_data":2305190},"model":"block/quartz_bricks"},{"predicate":{"custom_model_data":2305191},"model":"block/quartz_bricks"}]}

@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2201554.0,"model":{"type":"model","model":"supreme:components/supreme_rustless_machine"}}],"fallback":{"type":"model","model":"block/dead_brain_coral_block"}}}

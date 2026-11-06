@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/chiseled_polished_blackstone","overrides":[{"predicate":{"custom_model_data":2301003},"model":"slimetinker:materials/smeltery_controller"},{"predicate":{"custom_model_data":2301170},"model":"slimetinker:workstations/tinkers_smeltery_core"},{"predicate":{"custom_model_data":2305189},"model":"block/chiseled_polished_blackstone"}]}

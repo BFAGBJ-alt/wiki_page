@@ -1,8 +1,0 @@
-{
-	"credit": "MadewithBlockbench",
-	"parent": "customcrops:block/customcrops/pepper/stage_base",
-	"texture_size": [32, 32],
-	"textures": {
-		"pepper": "customcrops:block/customcrops/pepper/stage_2"
-	}
-}

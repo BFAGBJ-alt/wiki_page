@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2200162.0,"model":{"type":"model","model":"slimefun:slimefun/magical_gadgets/magical_zombie_pills"}},{"threshold":2200227.0,"model":{"type":"model","model":"slimefun:slimefun/items/vitamins"}}],"fallback":{"type":"model","model":"item/nether_wart"}}}

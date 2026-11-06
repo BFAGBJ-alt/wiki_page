@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":77601.0,"model":{"type":"model","model":"mcpets:item/pets/capybara"}},{"threshold":2200802.0,"model":{"type":"model","model":"slimy_tree_taps:materials/rubber"}}],"fallback":{"type":"model","model":"item/ink_sac"}}}

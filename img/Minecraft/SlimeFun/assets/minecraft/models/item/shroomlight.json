@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/shroomlight","overrides":[{"predicate":{"custom_model_data":2201818},"model":"supreme:machines/supreme_multiblock_core"},{"predicate":{"custom_model_data":2305199},"model":"block/shroomlight"}]}

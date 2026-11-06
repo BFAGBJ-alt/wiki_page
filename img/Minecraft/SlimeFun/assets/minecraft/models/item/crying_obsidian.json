@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/crying_obsidian","overrides":[{"predicate":{"custom_model_data":2201819},"model":"supreme:machines/supreme_multiblock_magical"},{"predicate":{"custom_model_data":2305164},"model":"block/crying_obsidian"}]}

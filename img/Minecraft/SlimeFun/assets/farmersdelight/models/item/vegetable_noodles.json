@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/vegetable_noodles"},"overrides":[{"predicate":{"custom_model_data":2500032},"model":"farmersdelight:item/vegetable_noodles"}]}

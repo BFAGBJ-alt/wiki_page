@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2200517.0,"model":{"type":"model","model":"slimefun:slimefun/cargo/reactor_access_port"}}],"fallback":{"type":"model","model":"block/cyan_terracotta"}}}

@@ -1,1 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"customfishing:fish/radioactive_fish"},"overrides":[{"predicate":{"custom_model_data":50000},"model":"customfishing:item/radioactive_fish"}]}

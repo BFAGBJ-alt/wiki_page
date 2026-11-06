@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/cooked_cod_slice"},"overrides":[{"predicate":{"custom_model_data":2500007},"model":"farmersdelight:item/cooked_cod_slice"}]}

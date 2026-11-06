@@ -1,1 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"farmersdelight:gui/sprites/icons/info"},"overrides":[{"predicate":{"custom_model_data":2500017},"model":"farmersdelight:item/button_info"}]}

@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/cooked_salmon"},"overrides":[{"predicate":{"custom_model_data":2203108},"model":"gastronomicon:ingredient/gn_cooked_eel"}]}

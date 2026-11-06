@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2200622.0,"model":{"type":"model","model":"infinityexpansion:singularities/copper_singularity"}}],"fallback":{"type":"model","model":"block/bricks"}}}

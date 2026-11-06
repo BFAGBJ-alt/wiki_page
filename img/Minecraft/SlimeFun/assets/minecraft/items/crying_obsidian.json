@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2201819.0,"model":{"type":"model","model":"supreme:machines/supreme_multiblock_magical"}},{"threshold":2305164.0,"model":{"type":"model","model":"block/crying_obsidian"}}],"fallback":{"type":"model","model":"block/crying_obsidian"}}}

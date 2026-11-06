@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/polished_blackstone_button_inventory","overrides":[{"predicate":{"custom_model_data":2301084},"model":"slimetinker:materials/nuggets/nugget_cast_coal"}]}

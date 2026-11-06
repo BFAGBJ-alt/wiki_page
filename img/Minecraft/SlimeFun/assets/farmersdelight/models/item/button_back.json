@@ -1,1 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"farmersdelight:gui/sprites/icons/button_back"},"overrides":[{"predicate":{"custom_model_data":114003},"model":"farmersdelight:item/button_back"}]}

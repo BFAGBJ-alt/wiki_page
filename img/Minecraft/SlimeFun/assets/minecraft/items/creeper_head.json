@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":5611110.0,"model":{"type":"model","model":"vegas:item/darts_creeper"}}],"fallback":{"type":"special","model":{"type":"head","kind":"creeper"},"base":"item/template_skull"}}}

@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2305001.0,"model":{"type":"model","model":"item/knowledge_book"}}],"fallback":{"type":"model","model":"item/knowledge_book"}}}

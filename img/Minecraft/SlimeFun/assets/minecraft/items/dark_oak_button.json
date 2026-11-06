@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2203078.0,"model":{"type":"model","model":"gastronomicon:ingredient/gn_avocado_pit"}}],"fallback":{"type":"model","model":"block/dark_oak_button_inventory"}}}

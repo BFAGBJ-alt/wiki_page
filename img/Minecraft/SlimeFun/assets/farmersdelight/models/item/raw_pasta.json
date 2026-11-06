@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/raw_pasta"},"overrides":[{"predicate":{"custom_model_data":2500002},"model":"farmersdelight:item/raw_pasta"}]}

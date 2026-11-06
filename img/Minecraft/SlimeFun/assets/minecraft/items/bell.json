@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2201407.0,"model":{"type":"model","model":"bump:machines/appraisal"}},{"threshold":2201408.0,"model":{"type":"model","model":"bump:magical_items/sun_energy"}}],"fallback":{"type":"model","model":"item/bell"}}}

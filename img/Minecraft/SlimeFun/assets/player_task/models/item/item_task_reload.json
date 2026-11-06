@@ -1,1 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"player_task:items/item_task_reload"},"overrides":[{"predicate":{"custom_model_data":20279},"model":"player_task:item/item_task_reload"}]}

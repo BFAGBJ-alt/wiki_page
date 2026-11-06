@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2200128.0,"model":{"type":"model","model":"slimefun:slimefun/technical_gadgets/hologram_projector"}}],"fallback":{"type":"model","model":"block/quartz_slab"}}}

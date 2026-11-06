@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/lime_stained_glass","overrides":[{"predicate":{"custom_model_data":2305158},"model":"block/lime_stained_glass"},{"predicate":{"custom_model_data":2305159},"model":"block/lime_stained_glass"},{"predicate":{"custom_model_data":2305160},"model":"block/lime_stained_glass"},{"predicate":{"custom_model_data":2305161},"model":"block/lime_stained_glass"}]}

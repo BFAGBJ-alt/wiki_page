@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2203019.0,"model":{"type":"model","model":"gastronomicon:tools/gn_reinforced_sickle"}},{"threshold":2305129.0,"model":{"type":"model","model":"infinityexpansion2:tools/infinity_hoe"}}],"fallback":{"type":"model","model":"item/netherite_hoe"}}}

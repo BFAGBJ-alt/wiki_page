@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/honey_bottle"},"overrides":[{"predicate":{"custom_model_data":2203136},"model":"gastronomicon:food/gn_marmalade"}]}

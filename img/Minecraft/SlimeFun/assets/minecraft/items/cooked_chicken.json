@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2200021.0,"model":{"type":"model","model":"slimefun:slimefun/food/chicken_jerky"}},{"threshold":2203122.0,"model":{"type":"model","model":"gastronomicon:ingredient/gn_cooked_turkey"}}],"fallback":{"type":"model","model":"item/cooked_chicken"}}}

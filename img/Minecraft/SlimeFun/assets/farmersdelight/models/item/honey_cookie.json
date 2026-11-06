@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/honey_cookie"},"overrides":[{"predicate":{"custom_model_data":2500019},"model":"farmersdelight:item/honey_cookie"}]}

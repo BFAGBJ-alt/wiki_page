@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/vine"},"overrides":[{"predicate":{"custom_model_data":2203088},"model":"gastronomicon:ingredient/gn_vanilla_plant"}]}

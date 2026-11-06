@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"condition","on_true":{"type":"model","model":"supreme:weapons/shield/supreme_shield_magic_blocking"},"on_false":{"type":"model","model":"supreme:weapons/shield/supreme_shield_magic"},"property":"using_item"}}

@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/rope"},"overrides":[{"predicate":{"custom_model_data":20474},"model":"farmersdelight:item/rope"}]}

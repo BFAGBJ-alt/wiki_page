@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/stuffed_pumpkin_block"},"overrides":[{"predicate":{"custom_model_data":2500008},"model":"farmersdelight:item/stuffed_pumpkin_block"}]}

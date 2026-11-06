@@ -1,1 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"customfishing:util/fishfinder"},"overrides":[{"predicate":{"custom_model_data":50000},"model":"customfishing:item/fishfinder"}]}

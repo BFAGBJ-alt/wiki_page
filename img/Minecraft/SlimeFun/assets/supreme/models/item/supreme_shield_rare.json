@@ -1,1 +1,0 @@
-{"parent":"supreme:weapons/shield/supreme_shield_rare","overrides":[{"predicate":{"blocking":0,"custom_model_data":2201903},"model":"supreme:weapons/shield/supreme_shield_rare"},{"predicate":{"blocking":1,"custom_model_data":2201903},"model":"supreme:weapons/shield/supreme_shield_rare_blocking"}]}

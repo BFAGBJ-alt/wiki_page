@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"farmersdelight:item/sweet_berry_cheesecake"},"overrides":[{"predicate":{"custom_model_data":2500015},"model":"farmersdelight:item/sweet_berry_cheesecake"}]}

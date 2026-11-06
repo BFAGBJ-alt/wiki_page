@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2200471.0,"model":{"type":"model","model":"slimefun:slimefun/energy/food_fabricator"}},{"threshold":2200472.0,"model":{"type":"model","model":"slimefun:slimefun/energy/food_fabricator_2"}}],"fallback":{"type":"model","model":"block/green_stained_glass"}}}

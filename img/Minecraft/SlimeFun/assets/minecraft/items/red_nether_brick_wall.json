@@ -1,1 +1,0 @@
-{"oversized_in_gui":true,"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"entries":[{"threshold":2301004.0,"model":{"type":"model","model":"slimetinker:materials/seared_tank"}}],"fallback":{"type":"model","model":"block/red_nether_brick_wall_inventory"}}}

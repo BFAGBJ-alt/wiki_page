@@ -1,1 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"hmccosmetics:item/armor/icons/balloon_icon"},"overrides":[{"predicate":{"custom_model_data":20251},"model":"hmccosmetics:item/hmc_balloon_icon"}]}

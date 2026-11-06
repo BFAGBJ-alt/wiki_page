@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/fletching_table","overrides":[{"predicate":{"custom_model_data":2301169},"model":"slimetinker:workstations/tinkers_workbench"}]}

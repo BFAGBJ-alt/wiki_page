@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/respawn_anchor_0","overrides":[{"predicate":{"custom_model_data":2200679},"model":"infinityexpansion:machines/infinity_workbench"},{"predicate":{"custom_model_data":2305195},"model":"infinityexpansion2:machines/infinity_workbench"}]}

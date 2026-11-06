@@ -1,1 +1,0 @@
-{"parent":"supreme:weapons/shield/supreme_shield_magic","overrides":[{"predicate":{"blocking":0,"custom_model_data":2201902},"model":"supreme:weapons/shield/supreme_shield_magic"},{"predicate":{"blocking":1,"custom_model_data":2201902},"model":"supreme:weapons/shield/supreme_shield_magic_blocking"}]}

@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/pink_terracotta","overrides":[{"predicate":{"custom_model_data":2200440},"model":"slimefun:slimefun/valentine/rainbow_clay_valentine"},{"predicate":{"custom_model_data":2301017},"model":"slimetinker:materials/blocks/block_cast_magnesium"}]}

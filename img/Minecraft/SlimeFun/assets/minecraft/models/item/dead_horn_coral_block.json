@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/dead_horn_coral_block","overrides":[{"predicate":{"custom_model_data":2201556},"model":"supreme:components/supreme_carriage_machine"}]}

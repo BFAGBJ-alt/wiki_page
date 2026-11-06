@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/netherite_hoe"},"overrides":[{"predicate":{"custom_model_data":2203019},"model":"gastronomicon:tools/gn_reinforced_sickle"},{"predicate":{"custom_model_data":2305129},"model":"infinityexpansion2:tools/infinity_hoe"}]}
